@@ -5,6 +5,8 @@ const RestaurantSchema = new Schema({
   title: String,
   description: String,
   location: String,
+  // address: String,
+  image: String,
   //   dishes: [String],
 });
 
